@@ -1,0 +1,6 @@
+# hook bookkeeping, local only
+context/.sync-state
+context/.sync-lock
+
+# personal pending-question list (template: question-confirmation.example.md)
+question-confirmation.md
